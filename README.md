@@ -72,6 +72,11 @@ http://team13-ateamventures.s3-website.ap-northeast-2.amazonaws.com/
 
 ### :clapper: 구현내용
 
+#### 1. 데시보드 레이아웃 구현
+~~~
+- 주어진 피그마에 맞게 전체적인 스타일 및 레이아웃 구현
+~~~
+
 #### 1. 필터링
 ~~~
 - 상담 중인 요청만 보는 기능
